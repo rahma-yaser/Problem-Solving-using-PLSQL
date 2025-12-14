@@ -152,7 +152,7 @@ begin
 
 end;
 */
---4.    Create plsql block that loop over employees table and Increase only those working in ‘IT’ department by 10% of their salary. 
+--4.    Create plsql block that loop over employees table and Increase only those working in â€˜ITâ€™ department by 10% of their salary. 
 --without join
 /*
 select * from employees;
