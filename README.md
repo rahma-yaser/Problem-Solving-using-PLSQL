@@ -1,1 +1,1 @@
-Solving problems using oracle - plsql
+Solving problems using PLSQL
